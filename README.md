@@ -99,6 +99,18 @@
   
 ---
 
+## ⭐ Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=xjzhi/TraceHarvest&type=date&v=1)
+
+---
+
+## 🙏 致谢
+
+感谢所有为本项目做出贡献的开发者！
+
+---
+
 ## 📧 联系方式
 
 如有任何问题或建议，请通过以下方式联系：
