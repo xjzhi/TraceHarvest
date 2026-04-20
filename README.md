@@ -111,14 +111,22 @@
 
 ---
 
-## 📧 联系方式
-
-如有任何问题或建议，请通过以下方式联系：
-
-- **GitHub Issues**: [提交 Issue](https://github.com/xjzhi/TraceHarvest/issues)
-
----
-
 ## ⚠️ 免责声明
 
 本工具仅供安全研究和授权测试使用。使用本工具进行未经授权的测试是违法的。使用者需自行承担使用本工具的一切后果，作者不承担任何法律责任。
+
+---
+
+## 💬 互动交流
+欢迎加入我们的安全技术交流群，与开发者和安全研究人员一起讨论安全工具的使用、漏洞挖掘等话题！
+
+### 🤝 加入技术交流群
+- 微信群（推荐）
+
+![微信群](https://github.com/user-attachments/assets/f9c9e1d9-96c7-4f2a-84b6-28823e0f3c26)
+
+
+- ➕V：xjizhi_run 进入GG安全交流群（**交流群超200人需要人工邀请，扫码+V时请备注：进群**）
+- 微信二维码
+
+![微信](https://github.com/user-attachments/assets/ab7fbf45-dfd4-40c9-b53e-00b3f92e3e90)
