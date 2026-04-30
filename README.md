@@ -1,9 +1,9 @@
 # 潜影【TraceHarvest】：是一款面向网络安全攻防演练场景的自动化信息收集工具。
 > 潜影是一款为安全研究人员与开发者设计的 Windows GUI 一体化工具，专用于面向网络安全攻防演练场景的自动化信息收集工具。通过智能化的多引擎搜索和敏感信息提取技术，解决了在大规模目标侦察过程中人工搜索效率低下、信息遗漏严重、重复工作繁多的核心痛点，本工具实现了从 自动检索 → 跨引擎去重 → 敏感信息识别 → 信息可视化 → 报告输出 的完整工作流。
 
-[![GitHub issues](https://img.shields.io/github/issues/xjzhi/TraceHarvest)](https://github.com/xjzhi/TraceHarvest/issues)
-[![GitHub stars](https://img.shields.io/github/stars/xjzhi/TraceHarvest)](https://github.com/xjzhi/TraceHarvest/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xjzhi/TraceHarvest)](https://github.com/xjzhi/TraceHarvest/network)
+[![GitHub issues](https://img.shields.io/github/issues/i-am-xjizhi/TraceHarvest)](https://github.com/i-am-xjizhi/TraceHarvest/issues)
+[![GitHub stars](https://img.shields.io/github/stars/i-am-xjizhi/TraceHarvest)](https://github.com/i-am-xjizhi/TraceHarvest/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/i-am-xjizhi/TraceHarvest)](https://github.com/i-am-xjizhi/TraceHarvest/network)
 ![图片](https://github.com/user-attachments/assets/2377afaa-101a-4fe0-9d29-e7bb355123e4)
 
 ---
@@ -101,7 +101,7 @@
 
 ## ⭐ Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=xjzhi/TraceHarvest&type=date&v=1)
+![Star History Chart](https://api.star-history.com/svg?repos=i-am-xjizhi/TraceHarvest&type=date&v=1)
 
 ---
 
