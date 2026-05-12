@@ -1,9 +1,38 @@
-# 潜影【TraceHarvest】：是一款面向网络安全攻防演练场景的自动化信息收集工具。
+<div align="center">
+  <h1>潜影【TraceHarvest】</h1>
+
+  <img width="128" height="128" alt="Yee Music" src="https://avatars.githubusercontent.com/u/109730978">
+</div>
+
+<div align="center">
+  <p>TraceHarvest 实现了从 自动检索 → 跨引擎去重 → 敏感信息识别 → 信息可视化 → 报告输出 的完整工作流</p>
+  <p><strong>网络安全攻防演练自动化信息收集工具</strong></p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/i-am-xjizhi/TraceHarvest/stargazers">
+    <img src="https://img.shields.io/github/stars/i-am-xjizhi/TraceHarvest" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/i-am-xjizhi/TraceHarvest/network">
+    <img src="https://img.shields.io/github/forks/i-am-xjizhi/TraceHarvest" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/i-am-xjizhi/TraceHarvest/watchers">
+    <img src="https://img.shields.io/github/watchers/i-am-xjizhi/TraceHarvest" alt="GitHub Watchers">
+  </a>
+  </b>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-brightgreen" alt="Version: 1.0">
+  <img src="https://img.shields.io/badge/OS-Windows_10/11-0078D6" alt="OS: Windows 10/11">
+  <img src="https://img.shields.io/badge/Arch-x64-red" alt="Arch: x64">
+</div>
+
+
+
+## 🖼️ 界面展示
 > 潜影是一款为安全研究人员与开发者设计的 Windows GUI 一体化工具，专用于面向网络安全攻防演练场景的自动化信息收集工具。通过智能化的多引擎搜索和敏感信息提取技术，解决了在大规模目标侦察过程中人工搜索效率低下、信息遗漏严重、重复工作繁多的核心痛点，本工具实现了从 自动检索 → 跨引擎去重 → 敏感信息识别 → 信息可视化 → 报告输出 的完整工作流。
 
-[![GitHub issues](https://img.shields.io/github/issues/i-am-xjizhi/TraceHarvest)](https://github.com/i-am-xjizhi/TraceHarvest/issues)
-[![GitHub stars](https://img.shields.io/github/stars/i-am-xjizhi/TraceHarvest)](https://github.com/i-am-xjizhi/TraceHarvest/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/i-am-xjizhi/TraceHarvest)](https://github.com/i-am-xjizhi/TraceHarvest/network)
 ![图片](https://github.com/user-attachments/assets/2377afaa-101a-4fe0-9d29-e7bb355123e4)
 
 ---
