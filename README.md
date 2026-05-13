@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/i-am-xjizhi/TraceHarvest/releases">
+  <a href="https://img.shields.io/github/downloads/i-am-xjizhi/TraceHarvest/total">
     <img src="https://img.shields.io/github/downloads/i-am-xjizhi/TraceHarvest/total?labelColor=black&color=red&label=Downloads" alt="Downloads">
   </a>
   <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version: 1.0">
