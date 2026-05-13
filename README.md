@@ -23,9 +23,17 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-brightgreen" alt="Version: 1.0">
-  <img src="https://img.shields.io/badge/OS-Windows_10/11-0078D6" alt="OS: Windows 10/11">
-  <img src="https://img.shields.io/badge/Arch-x64-red" alt="Arch: x64">
+  <a href="https://github.com/i-am-xjizhi/TraceHarvest/releases">
+    <img src="https://img.shields.io/github/downloads/i-am-xjizhi/TraceHarvest/total?labelColor=black&color=red&label=Downloads" alt="Downloads">
+  </a>
+  <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version: 1.0">
+  <a href="https://github.com/i-am-xjizhi/TraceHarvest/issues">
+    <img src="https://img.shields.io/github/issues/i-am-xjizhi/TraceHarvest?labelColor=black&color=green" alt="GitHub Issues">
+  </a>
+  <img src="https://img.shields.io/badge/OS-Windows_10/11-0078D6?labelColor=black&color=blue" alt="OS: Windows 10/11">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+  </a>
 </div>
 
 
